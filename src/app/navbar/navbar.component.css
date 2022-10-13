@@ -1,0 +1,22 @@
+
+.container{
+    background-color: rgb(245, 245, 188);
+}
+.navbar{
+    background-color: rgb(32, 9, 70);
+}
+.topnav a:hover {
+    border-bottom: 3px solid red;
+    
+}
+.column{
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+}
+.background{
+    background-color:rgb(245, 245, 188);
+}
+
+
+
